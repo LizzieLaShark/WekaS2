@@ -22,3 +22,5 @@ I agree with all of this so far. It's pretty basic stuff but I can see why it's 
 the most important three I'd go with: Design for users and their tasks, use simple and natural dialogue (I'd lump 
 'present info clearly' in with that) and provide adequate feedback.
 
+I thought the video was clear and reasonable. There wasn't a lot that surprised me (about the video or the reading resource). Interested in learning more as we go about the kinds of methodologies we can use for robust ux design.
+
