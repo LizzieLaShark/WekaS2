@@ -13,6 +13,10 @@ function avgOfThree(a, b, c){
   return avgOfThree
 }
 
+function isOdd (a){
+  return a % 2;
+  return isOdd
+}
 
 
 
