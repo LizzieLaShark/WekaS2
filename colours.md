@@ -34,3 +34,5 @@ Peru
 rgb(205,133,63)
 HSL: 30° 59% 53%
 Hex: #CD853F
+
+the 'a' means that the colour value has an alpha channel which specifies opacity.
