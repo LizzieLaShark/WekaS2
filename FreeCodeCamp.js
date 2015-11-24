@@ -49,4 +49,11 @@ var quotient = 66 / 33;
 var myDecimal = 2.8;
 var product = 2.0 * 2.5;
 var quotient = 4.4 / 2.0;
+var myArray = ["stringskeez", 56];
+var myArray = [["erryday", "I'm nestin"]];
+var myData = myArray[0];
+myArray[0] = 3;
+var removedFromMyArray = myArray.pop();
+myArray.push(["dog", 3]);
+
 
