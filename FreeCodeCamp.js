@@ -44,5 +44,9 @@ var secondToLastLetterOfLastName = lastName[lastName.length - 2];
 var sum = 10 + 10;
 var difference = 45 - 33;
 
-
+var product = 8 * 10;
+var quotient = 66 / 33;
+var myDecimal = 2.8;
+var product = 2.0 * 2.5;
+var quotient = 4.4 / 2.0;
 
