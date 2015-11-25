@@ -55,5 +55,24 @@ var myData = myArray[0];
 myArray[0] = 3;
 var removedFromMyArray = myArray.pop();
 myArray.push(["dog", 3]);
+myArray.unshift("Paul");
+
+var a = 2;
+var b = 6;
+
+function myFunction(a, b){
+  return a + b;
+}
+
+myFunction(7, 2)
+
+var myDog = {
+  "name": "Henry",
+  "legs": 4,
+  "tails": 1,
+  "friends": ["food", "Humans", "everything except cats"]
+};
+
+
 
 
