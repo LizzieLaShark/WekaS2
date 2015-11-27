@@ -73,6 +73,14 @@ var myDog = {
   "friends": ["food", "Humans", "everything except cats"]
 };
 
+for (var i = 1; i < 10; i += 2) {
+  myArray.push(i);
+}
+
+for (var i = 9; i > 0; i -= 2) {
+  myArray.push(i);
+}
+
 
 
 
