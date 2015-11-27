@@ -81,6 +81,16 @@ for (var i = 9; i > 0; i -= 2) {
   myArray.push(i);
 }
 
+var i = 0;
+while(i < 5) {
+  myArray.push(i);
+  i++;
+}
 
+  return Math.random();
+   return Math.floor(Math.random() * 10);
+   
+   
+  
 
 
